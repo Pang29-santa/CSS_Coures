@@ -1,0 +1,89 @@
+body{
+    font-size: 22px;
+}
+
+/**{
+    margin: 0;
+    padding: 0;
+}*/
+
+main{
+    font-family: 'Mali', cursive;
+}
+
+h1{
+    color: chartreuse;
+}
+
+p {
+  font-size: 20px;
+}
+
+#paragraphs{
+    color: aqua; 
+}
+
+#pclass{
+    color: darksalmon;
+}
+
+.highlight{
+ background-color: rgb(255, 183, 0);
+}
+
+#pchild{
+    color: lightcoral;
+}
+
+/*ul .li-class{
+    color: red;
+    font-size: 40px;
+}*/
+
+/*ul{
+    list-style-type: circle;
+    list-style-position: inside;
+    color:rgb(46, 46, 100);
+    font-size: 36px;
+    font-weight: 700;
+    list-style-image: url(/img/checklist.png);
+}
+
+a{
+    font-size: 44px;   
+    color: crimson;
+    text-decoration: none;
+}
+
+a:focus{
+    color: mediumslateblue;
+}
+
+a:hover{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+a:active{
+    color: grey;
+}
+
+a:visited{
+    color: darkorange;
+}
+
+ul li:nth-child(1){
+    color: rgb(255, 0, 0);
+}
+ul li:nth-child(2){
+    color: rgb(255, 159, 5);
+}
+ul li:nth-child(3){
+    color: rgb(225, 255, 0);
+}
+ul li:nth-child(4){
+    color: rgb(26, 255, 0);
+}*/
+
+/*------------------ CSS Display ------------------*/
+
